@@ -10,3 +10,5 @@
 - Add label metadata
 ### v0.2.5 - MobilenetV2
 - Fix label metadata
+### v0.2.6 - MobilenetV2
+- Add assets
