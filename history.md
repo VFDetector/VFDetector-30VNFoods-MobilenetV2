@@ -8,3 +8,5 @@
 ### v0.2.4 - MobilenetV2
 - Improve model
 - Add label metadata
+### v0.2.5 - MobilenetV2
+- Fix label metadata
