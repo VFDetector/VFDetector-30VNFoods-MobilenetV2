@@ -36,35 +36,119 @@
         }
       ]
     },
-    "Bánh căn",
-    "Bánh canh",
-    "Bánh chưng",
-    "Bánh cuốn",
-    "Bánh đúc",
-    "Bánh giof",
-    "Bánh khọt",
-    "Bánh mì",
-    "Bánh pía",
-    "Bánh tét",
-    "Bánh tráng nướng",
-    "Bánh xèo",
-    "Bún bò huế",
-    "Bún đậu mắm tôm",
-    "Bún mắm",
-    "Bún riêu",
-    "Bún thịt nướng",
-    "Cá kho tộ",
-    "Canh chua",
-    "Cao lầu",
-    "Cháo lòng",
-    "Cơm tấm",
-    "Gỏi cuốn",
-    "Hủ tiếu",
-    "Mì quảng",
-    "Nem chua",
-    "Phở",
-    "Xôi xéo"
+    {
+      "name": "Bánh căn",
+      "type": []
+    },
+    {
+      "name": "Bánh canh",
+      "type": []
+    },
+    {
+      "name": "Bánh chưng",
+      "type": []
+    },
+    {
+      "name": "Bánh cuốn",
+      "type": []
+    },
+    {
+      "name": "Bánh đúc",
+      "type": []
+    },
+    {
+      "name": "Bánh giò",
+      "type": []
+    },
+    {
+      "name": "Bánh khọt",
+      "type": []
+    },
+    {
+      "name": "Bánh mì",
+      "type": []
+    },
+    {
+      "name": "Bánh pía",
+      "type": []
+    },
+    {
+      "name": "Bánh tét",
+      "type": []
+    },
+    {
+      "name": "Bánh tráng nướng",
+      "type": []
+    },
+    {
+      "name": "Bánh xèo",
+      "type": []
+    },
+    {
+      "name": "Bún bò huế",
+      "type": []
+    },
+    {
+      "name": "Bún đậu mắm tôm",
+      "type": []
+    },
+    {
+      "name": "Bún mắm",
+      "type": []
+    },
+    {
+      "name": "Bún riêu",
+      "type": []
+    },
+    {
+      "name": "Bún thịt nướng",
+      "type": []
+    },
+    {
+      "name": "Cá kho tộ",
+      "type": []
+    },
+    {
+      "name": "Canh chua",
+      "type": []
+    },
+    {
+      "name": "Cao lầu",
+      "type": []
+    },
+    {
+      "name": "Cháo lòng",
+      "type": []
+    },
+    {
+      "name": "Cơm tấm",
+      "type": []
+    },
+    {
+      "name": "Gỏi cuốn",
+      "type": []
+    },
+    {
+      "name": "Hủ tiếu",
+      "type": []
+    },
+    {
+      "name": "Mì quảng",
+      "type": []
+    },
+    {
+      "name": "Nem chua",
+      "type": []
+    },
+    {
+      "name": "Phở",
+      "type": []
+    },
+    {
+      "name": "Xôi xéo",
+      "type": []
+    }
   ],
   "assets": 5,
-  "version": "0.2.3"
+  "version": "0.2.6"
 }
