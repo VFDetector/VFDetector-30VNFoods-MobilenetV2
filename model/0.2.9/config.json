@@ -1,0 +1,1120 @@
+{
+  "labels": [
+    {
+      "name": "Bánh bèo",
+      "description": [
+        {
+          "text": "Bánh bèo là một món ăn truyền thống của Việt Nam, được chế biến từ bột gạo và có hình dáng giống như chiếc lá sen nhỏ nhắn. Bánh bèo được chia thành nhiều loại khác nhau như bánh bèo miền Trung, bánh bèo Huế, bánh bèo Nam Định, bánh bèo Bà Rịa - Vũng Tàu... Tùy theo từng loại, bánh bèo có cách chế biến và phục vụ khác nhau. Bánh bèo thường được ăn kèm với nước chấm, hành phi và tôm khô. Đây là một món ăn nhẹ nhàng, dễ ăn và thường được dùng trong các bữa tiệc, cỗ chay hoặc để ăn sáng."
+        }
+      ],
+      "type": [
+        {
+          "name": "01.png",
+          "title": "Bánh bèo Huế"
+        },
+        {
+          "name": "02.png",
+          "title": "Bánh bèo Nam Định"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "65.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Quán Bánh Bèo Nậm Lọc Huế Xưa",
+          "url": "https://goo.gl/maps/YFaPqxF6cV2jMM1q6"
+        },
+        {
+          "name": "Bánh Bèo Nậm Lọc Bà Đỏ",
+          "url": "https://goo.gl/maps/YRJLcDyFaYypB1bj6"
+        },
+        {
+          "name": "Bánh Bèo O Thảo",
+          "url": "https://goo.gl/maps/VziS9q8B4TtCpz498"
+        }
+      ]
+    },
+    {
+      "name": "Bánh bột lọc",
+      "description": [
+        {
+          "text": "Bánh bột lọc là một loại bánh truyền thống của người Việt Nam, đặc biệt phổ biến ở miền Trung. Bánh được làm từ bột năng và nhân là tôm tươi hoặc thịt heo xay nhuyễn, cùng với hành lá, nấm hương, tiêu và gia vị khác. Bánh bột lọc được thưởng thức với nước mắm pha chua ngọt hoặc tương ớt, kèm với rau sống và chanh tươi. Bánh có vị ngon, béo ngậy từ nhân và vị dai từ lớp bột ngoài cùng. Bánh bột lọc cũng được coi là một món ăn ngon trong các dịp lễ Tết và các buổi tiệc, hội nghị, cũng như là một món ăn phổ biến trong các quán ăn truyền thống ở miền Trung Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "03.png",
+          "title": "Bánh bột lọc Phan Thiết"
+        },
+        {
+          "name": "04.png",
+          "title": "Bánh bột lọc Đà Nẵng"
+        },
+        {
+          "name": "05.png",
+          "title": "Bánh bột lọc đậu xanh Huế"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "66.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh Bột Lọc Như Ý",
+          "url": "https://goo.gl/maps/91U8Y4WodEf2fEbr8"
+        },
+        {
+          "name": "Quán Cô Xí - Nậm Lọc Bèo",
+          "url": "https://goo.gl/maps/ggiCgprGMNMzk7Y86"
+        },
+        {
+          "name": "Bánh Bèo Nậm Lọc Bà Đỏ",
+          "url": "https://goo.gl/maps/t6jBgYS3f7sKnANv8"
+        }
+      ]
+    },
+    {
+      "name": "Bánh căn",
+      "description": [
+        {
+          "text": "Bánh căn là một món ăn truyền thống của miền Trung Việt Nam, đặc biệt phổ biến ở các tỉnh miền Trung như Huế, Đà Nẵng, Quảng Nam. Bánh căn có hình dạng giống như chiếc bánh nướng nhỏ, được làm từ bột gạo và có nhân là tôm hoặc thịt heo xay. Bánh căn có vị ngon từ bột gạo thơm, béo ngậy từ nhân tôm hoặc thịt heo xay. Khi ăn, bánh căn được ăn kèm với nước chấm pha chua ngọt, tương ớt, hành phi và rau thơm, tạo nên một hương vị đặc trưng và hấp dẫn. Bánh căn thường được ăn vào bữa sáng hoặc bữa trưa, và là món ăn phổ biến trong các quán ăn truyền thống của miền Trung Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "09.png",
+          "title": "Bánh căn Đà Lạt"
+        },
+        {
+          "name": "10.png",
+          "title": "Bánh căn Đà Nẵng"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "67.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh căn Ngọc",
+          "url": "https://goo.gl/maps/hh8BmnfgmQWVHBRF7"
+        },
+        {
+          "name": "Bánh căn Cây Bơ",
+          "url": "https://goo.gl/maps/ghYM8HYAtg4qFThb6"
+        },
+        {
+          "name": "Bánh Căn Hẻm",
+          "url": "https://goo.gl/maps/k7m47TLBussVnr8N7"
+        }
+      ]
+    },
+    {
+      "name": "Bánh canh",
+      "description": [
+        {
+          "text": "Bánh canh là một món ăn truyền thống của người Việt Nam, đặc biệt phổ biến ở miền Trung và miền Nam. Bánh canh được làm từ bột gạo và có hình dạng giống như sợi mì dày, với độ dai và nhão tùy thuộc vào cách chế biến của từng vùng miền. Bánh canh có thể được làm từ nhiều loại nhân khác nhau như tôm, cá, thịt heo, gà, bò hoặc các loại hải sản khác. Tùy vào nhân mà bánh canh sẽ có hương vị đặc trưng khác nhau. Khi ăn, bánh canh được ăn kèm với nước dùng, thường được làm từ xương heo, thịt gà hoặc tôm. Nước dùng có vị ngọt, thơm từ các loại thảo mộc và gia vị như hành, tỏi, ngò, tiêu, đường và nước mắm. Bên cạnh đó, bánh canh thường được ăn kèm với rau thơm, tương ớt, hành phi và tôm khô để tạo nên hương vị đậm đà và đặc trưng của món ăn. Bánh canh thường được ăn trong các bữa ăn nhẹ vào buổi sáng, trưa hoặc tối."
+        }
+      ],
+      "type": [
+        {
+          "name": "11.png",
+          "title": "Bánh canh Đà Nẵng"
+        },
+        {
+          "name": "12.png",
+          "title": "Bánh canh quận 1, thành phố Hồ Chí Minh"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "68.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh Canh Ruộng",
+          "url": "https://goo.gl/maps/6Yx6m6KKePRngXgy6"
+        },
+        {
+          "name": "Bánh canh Thủy",
+          "url": "https://goo.gl/maps/YudK7XnChDNwGUax9"
+        },
+        {
+          "name": "Bánh Canh Cua Út Thảo ",
+          "url": "https://goo.gl/maps/xpJSz2ZnLN1pytrz9"
+        }
+      ]
+    },
+    {
+      "name": "Bánh chưng",
+      "description": [
+        {
+          "text": "Bánh trưng là một món ăn truyền thống của người Việt Nam, đặc biệt phổ biến trong dịp Tết Nguyên Đán. Bánh trưng là một loại bánh dày, có hình dạng hình chữ nhật và được bọc bởi lá dong hoặc lá chuối. Bánh trưng được làm từ các nguyên liệu đơn giản như gạo nếp, thịt heo, đậu xanh, hành, nấm, tiêu và muối. Người làm bánh trưng phải chuẩn bị sớm và cần thực hiện nhiều bước để tạo ra bánh trưng đúng cách. Khi ăn, bánh trưng được cắt thành từng miếng và ăn kèm với dưa hành, tương ớt và tôm khô. Bánh trưng có vị ngọt từ gạo nếp, mặn từ thịt heo, đậu xanh và mùi thơm từ lá dong hoặc lá chuối. Bánh trưng không chỉ là món ăn truyền thống của người Việt Nam, mà còn có ý nghĩa tượng trưng cho sự đoàn kết và lòng biết ơn đến tổ tiên."
+        }
+      ],
+      "type": [
+        {
+          "name": "13.png",
+          "title": "Bánh trưng ngày tết"
+        },
+        {
+          "name": "14.png",
+          "title": "Bánh trưng truyền thống"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "69.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh chưng bánh tét Ngọc Bích",
+          "url": "https://goo.gl/maps/AFNcZidb7CA9mKQz6"
+        },
+        {
+          "name": "Bánh Chưng Tết Cô Mai",
+          "url": "https://goo.gl/maps/UYp6mYVWK22ViJbj9"
+        },
+        {
+          "name": "Bánh Chưng Bắc",
+          "url": "https://goo.gl/maps/RyN9iXrs32yWiqKz5"
+        }
+      ]
+    },
+    {
+      "name": "Bánh cuốn",
+      "description": [
+        {
+          "text": "Bánh cuốn là một món ăn truyền thống của người Việt Nam. Bánh cuốn có hình dạng dẹt, mỏng và được cuốn lại với nhân thịt, nấm hoặc tôm và rau thơm. Món ăn này thường được ăn kèm với nước mắm chua ngọt, tương ớt và dưa leo. Bánh cuốn có vị dẻo, mềm và nhẹ, thịt heo hoặc tôm cùng nấm hương tạo nên vị thơm ngon, rau thơm tạo nên mùi hương đặc trưng. Món ăn này thường được ăn vào bữa sáng hoặc bữa tối và là một món ăn rất phổ biến trong ẩm thực Việt Nam"
+        }
+      ],
+      "type": [
+        {
+          "name": "15.png",
+          "title": "Bánh cuốn truyền thống"
+        },
+        {
+          "name": "16.png",
+          "title": "Bánh cuốn Hà Nội"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "70.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh cuốn Cao Bằng",
+          "url": "https://goo.gl/maps/4PnHyeM4VQH594NTA"
+        },
+        {
+          "name": "Bánh cuốn Bà Xuân",
+          "url": "https://goo.gl/maps/RTQFhWf1kQEk2fRm6"
+        },
+        {
+          "name": "Bánh Cuốn Bà Tâm",
+          "url": "https://goo.gl/maps/CZCniFEyaoZbTi4j8"
+        }
+      ]
+    },
+    {
+      "name": "Bánh đúc",
+      "description": [
+        {
+          "text": "Bánh đúc là một món ăn truyền thống của người Việt Nam, đặc biệt phổ biến ở miền Trung. Bánh đúc có vị dẻo, mềm, thơm và ngon, được làm từ bột gạo nếp, nước và muối, và thường được ăn kèm với nước dừa và đường. Sau khi bánh chín, bánh đúc được lấy ra khỏi khuôn và ăn kèm với nước dừa và đường. Người ta cũng có thể cho thêm đậu xanh, đậu đỏ, mè đen, dừa bào hoặc thạch rau câu để thêm phần thơm ngon và đẹp mắt. Bánh đúc là món ăn đơn giản nhưng rất thơm ngon và có giá trị dinh dưỡng cao. Nó là món ăn phổ biến trong các buổi sáng và được ưa chuộng ở nhiều nơi trong cả nước."
+        }
+      ],
+      "type": [
+        {
+          "name": "17.png",
+          "title": "Bánh đúc truyền thống"
+        },
+        {
+          "name": "18.png",
+          "title": "Bánh đúc lá dứa Cần Thơ"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "71.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh đúc lá dứa Quê Hương",
+          "url": "https://goo.gl/maps/YQPR1Tg4wXFKHT1f9"
+        },
+        {
+          "name": "Bánh Đúc Nóng Uyên Food",
+          "url": "https://goo.gl/maps/m7zTNmvWNEv6e1eu9"
+        },
+        {
+          "name": "Bánh đúc Tản Đà",
+          "url": "https://goo.gl/maps/sqdckARvgN3VHyUJ7"
+        }
+      ]
+    },
+    {
+      "name": "Bánh giò",
+      "description": [
+        {
+          "text": "Bánh giò là một món ăn truyền thống của người Việt Nam, đặc biệt phổ biến ở miền Bắc. Bánh giò có vỏ bọc từ lá dong hoặc lá chuối, và bên trong là nhân được làm từ thịt heo băm nhuyễn, nấm hương và các gia vị. Sau khi đóng gói, bánh giò được hấp khoảng 1-2 giờ cho đến khi chín. Khi ăn, vỏ lá được bóc ra và bỏ đi, để lộ ra bên trong là lớp bánh màu trắng và nhân thịt heo thơm ngon. Bánh giò là món ăn truyền thống của người Việt Nam, được ưa chuộng trong các bữa sáng hoặc bữa nhẹ trong suốt cả ngày. Bánh giò cũng được xem là một trong những món ăn đặc sản nổi tiếng của Hà Nội."
+        }
+      ],
+      "type": [
+        {
+          "name": "19.png",
+          "title": "Bánh giò truyền thống"
+        },
+        {
+          "name": "20.png",
+          "title": "Bánh giò truyền thống"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "72.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh Giò Trinh Lương",
+          "url": "https://goo.gl/maps/i6orXY5b7Apim1DK9"
+        },
+        {
+          "name": "Bánh giò Ngô Thì Nhậm",
+          "url": "https://goo.gl/maps/3BJJ9LzEcHtkCJNq6"
+        },
+        {
+          "name": "Bánh Giò Thu Loan",
+          "url": "https://goo.gl/maps/2ENFeH4UP58Ct1WK8"
+        }
+      ]
+    },
+    {
+      "name": "Bánh khọt",
+      "description": [
+        {
+          "text": "Bánh khọt là một món ăn đặc sản của miền Nam Việt Nam, đặc biệt phổ biến ở vùng đất nước Nam Bộ. Bánh khọt thường được làm từ bột gạo, nước, đậu xanh và hành tím, và có vị giòn, thơm, mặn mặn ngọt ngọt. Bánh khọt thường được ăn kèm với rau sống như giá đỗ, rau thơm, rau răm, xà lách, ớt và chấm nước mắm pha chua ngọt. Đây là một món ăn nhẹ, được ưa chuộng vào buổi sáng hoặc chiều tối, hoặc cũng có thể là món ăn nhẹ trong các bữa tiệc, hội nghị. Bánh khọt được xem là món ăn đặc trưng của miền Nam Việt Nam, đặc biệt là ở Vũng Tàu và thành phố Hồ Chí Minh. Nó là một trong những món ăn đặc sản nổi tiếng của Việt Nam, thu hút đông đảo du khách khi đến tham quan, khám phá văn hóa và ẩm thực của đất nước."
+        }
+      ],
+      "type": [
+        {
+          "name": "21.png",
+          "title": "Bánh khọt miền Tây"
+        },
+        {
+          "name": "22.png",
+          "title": "Bánh khọt Vũng Tàu"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "73.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "BÁNH KHỌT MIỀN TÂY",
+          "url": "https://goo.gl/maps/52XiBHkPoZDFdTN88"
+        },
+        {
+          "name": "Bánh khọt cô hai Vũng tàu",
+          "url": "https://goo.gl/maps/o2qxLuhAV9D9AqR68"
+        },
+        {
+          "name": "Bánh Khọt 209 Vũng Tàu",
+          "url": "https://goo.gl/maps/pM2YPpPmrqaymHMe8"
+        }
+      ]
+    },
+    {
+      "name": "Bánh mì",
+      "description": [
+        {
+          "text": "Bánh mì Việt Nam là một món ăn đặc trưng của nền ẩm thực Việt Nam. Bánh mì được làm từ bột mì, nước, men và muối, và có hương vị đặc trưng, thơm ngon. Bánh mì Việt Nam thường có vỏ giòn và bên trong mềm, phủ đầy những lát thịt, pate, trứng, rau sống, chấm với tương ớt hoặc mayonnaise, tạo nên một hương vị độc đáo. Bánh mì Việt Nam có nguồn gốc từ nền ẩm thực Pháp, được mang đến Việt Nam từ thời kỳ thực dân Pháp. Tuy nhiên, bánh mì Việt Nam đã được phát triển và biến tấu thành nhiều loại khác nhau, phù hợp với khẩu vị và văn hóa của người Việt Nam. Các loại bánh mì phổ biến ở Việt Nam bao gồm: bánh mì pate, bánh mì xíu mại, bánh mì thịt nướng, bánh mì trứng, bánh mì chả lụa, bánh mì bò kho, bánh mì chay và nhiều loại bánh mì khác. Bánh mì Việt Nam được ưa chuộng vì tính đa dạng, dễ ăn và thường được bán với giá cả phải chăng. Nó được coi là một phần văn hóa ẩm thực của người Việt Nam và được yêu thích không chỉ trong nước mà còn trên thế giới."
+        }
+      ],
+      "type": [
+        {
+          "name": "23.png",
+          "title": "Bánh mì bình dân"
+        },
+        {
+          "name": "24.png",
+          "title": "Bánh mì Việt Nam"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "74.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh Mì Phố Cổ 159",
+          "url": "https://goo.gl/maps/kkbNcm3u9HYzJYFu7"
+        },
+        {
+          "name": "Bánh mì Phố",
+          "url": "https://goo.gl/maps/pTDny6D5TSuH9kn56"
+        },
+        {
+          "name": "Bánh mì chả nóng Dũng Hạnh",
+          "url": "https://goo.gl/maps/2AsUPm8jF32Md9ak7"
+        }
+      ]
+    },
+    {
+      "name": "Bánh pía",
+      "description": [
+        {
+          "text": "Bánh pía là một loại bánh truyền thống được sản xuất và tiêu thụ rộng rãi ở miền Tây Nam Bộ của Việt Nam. Bánh pía có vỏ bánh giòn, được làm từ bột mì, đường và dầu ăn, và bên trong là nhân được làm từ đậu xanh hoặc trứng muối. Sau khi nhân được chế biến xong, vỏ bánh và nhân sẽ được chia làm từng miếng nhỏ, sau đó đặt nhân vào giữa hai lớp vỏ bánh và nướng trong lò. Khi được nướng chín, bánh pía sẽ có màu vàng sáng, vỏ bánh giòn và nhân thơm ngon. Bánh pía là món ăn truyền thống của miền Tây Nam Bộ và được xem là món quà đặc sản của vùng đất này. Nó có hương vị độc đáo và đặc trưng, và là món ăn được ưa chuộng không chỉ ở miền Tây Nam Bộ mà còn ở các vùng khác trong cả nước."
+        }
+      ],
+      "type": [
+        {
+          "name": "25.png",
+          "title": "Bánh pía Sóc Trăng"
+        },
+        {
+          "name": "26.png",
+          "title": "Bánh pía Sóc Trăng"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "75.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh Pía Sóc Trăng - Hải Sơn",
+          "url": "https://goo.gl/maps/Ca7sEoMhxPawqBRN6"
+        },
+        {
+          "name": "Bánh Pía Lạp Xưởng Tân Huê Viên",
+          "url": "https://goo.gl/maps/uKBAiNP4FWSus2JZ7"
+        },
+        {
+          "name": "Bánh Pía Lạp Xưởng Mỹ Anh",
+          "url": "https://goo.gl/maps/4JqvXSgsxRQNF9Sg7"
+        }
+      ]
+    },
+    {
+      "name": "Bánh tét",
+      "description": [
+        {
+          "text": "Bánh tét là một món ăn truyền thống của người Việt Nam, đặc biệt là trong các dịp lễ Tết Nguyên Đán. Bánh tét được làm bằng cách đóng nhân và gạo vào bên trong một lớp lá chuối hoặc lá dong, sau đó nấu chín trong nước. Nguyên liệu chính để làm bánh tét là gạo nếp, lá chuối hoặc lá dong và các nguyên liệu nhân như thịt heo, trứng, đậu xanh, nấm, giò lụa, tôm, sốt cà hoặc hành lá. Các nguyên liệu được chuẩn bị và sắp xếp tại trung tâm của một tấm lá chuối hoặc lá dong, sau đó được gói lại trên bề mặt lá bằng cách cuộn lại và thắt chặt bằng rơm hoặc dây dù. Sau khi bánh được gói kín, nó sẽ được nấu chín trong nước khoảng 6 đến 8 giờ. Khi bánh tét chín, lá chuối hoặc lá dong sẽ được bóc ra, để lộ lớp vỏ ngoài bánh màu trắng đẹp mắt, và lớp nhân bên trong có mùi thơm ngon đặc trưng. Bánh tét là một món ăn truyền thống và được coi là một phần không thể thiếu trong các ngày lễ Tết của người Việt Nam. Nó là một món ăn khá phổ biến và được ưa chuộng không chỉ trong nước mà còn trên thế giới."
+        }
+      ],
+      "type": [
+        {
+          "name": "27.png",
+          "title": "Bánh tét truyền thống"
+        },
+        {
+          "name": "28.png",
+          "title": "Bánh tét ngũ sắc"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "76.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Lò Bánh Tét Cô Hường",
+          "url": "https://goo.gl/maps/nxMSrZ7mnp5fLPr57"
+        },
+        {
+          "name": "Cơ Sở Sản Xuất Bánh Tét Hai Lý",
+          "url": "https://goo.gl/maps/qkZZpnfUcwhJ1CUr8"
+        },
+        {
+          "name": "Lữ Chuyên Bánh Tét",
+          "url": "https://goo.gl/maps/fL8Bx3ULbZkh2zPD9"
+        }
+      ]
+    },
+    {
+      "name": "Bánh tráng nướng",
+      "description": [
+        {
+          "text": "Bánh tráng nướng là một món ăn đường phố rất phổ biến ở Việt Nam. Nó được làm bằng cách nướng bánh tráng trên một lò nướng, sau đó thêm các nguyên liệu như tôm khô, thịt heo xông khói, hành tím, trứng gà, pate, phô mai, chà bông, rau thơm và sốt tương ớt lên trên bánh tráng nướng và cuộn lại. Bánh tráng nướng có vị cay, ngọt, mặn và thơm ngon, tùy thuộc vào những nguyên liệu được sử dụng. Nó thường được bán trên các quán ăn đường phố, các gian hàng ở chợ hoặc tại các quán cà phê, quán bar. Nó cũng là một món ăn được ưa chuộng trong các bữa tiệc, hội họp hoặc dùng làm món ăn nhẹ giữa các bữa. Bánh tráng nướng là món ăn rất đơn giản và dễ làm, bạn có thể tự làm tại nhà bằng cách mua bánh tráng và các nguyên liệu như tôm khô, trứng gà, hành tím và sốt tương ớt tại siêu thị hoặc chợ. Sau đó, bạn chỉ cần thêm các nguyên liệu này lên trên bánh tráng, cuộn lại và nướng trong lò nướng hoặc chảo."
+        }
+      ],
+      "type": [
+        {
+          "name": "29.png",
+          "title": "Bánh tráng nướng Đà Lạt"
+        },
+        {
+          "name": "30.png",
+          "title": "Bánh tráng nướng thành phố Hồ Chí Minh"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "77.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "QUÁN CÔ HOA",
+          "url": "https://goo.gl/maps/MAJkj9Gp8dQ8H9JN8"
+        },
+        {
+          "name": "Bánh tráng nướng cầu Ba Tứ",
+          "url": "https://goo.gl/maps/PoYNApG4At5MdCE36"
+        },
+        {
+          "name": "Bánh tráng nướng Phan Thiết",
+          "url": "https://goo.gl/maps/cKdcNh67MHe84T9i7"
+        }
+      ]
+    },
+    {
+      "name": "Bánh xèo",
+      "description": [
+        {
+          "text": "Bánh xèo là một món ăn truyền thống của miền Nam Việt Nam, đặc biệt là ở vùng Sài Gòn. Nó được làm bằng một loại bột mỳ, nước, và nước cốt dừa, pha trộn với nhiều nguyên liệu như đậu xanh, thịt ba chỉ, tôm, hành tím và rau thơm để tạo thành bánh xèo. Bánh xèo là một món ăn rất phổ biến và được ưa chuộng ở Việt Nam, đặc biệt là trong các buổi tối. Nó thường được ăn kèm với bia hoặc trà đá. Bạn cũng có thể tìm thấy bánh xèo ở các quán ăn đường phố hoặc nhà hàng Việt Nam. Bánh xèo được coi là một món ăn rất đặc trưng của Việt Nam, có vị giòn, mềm, thơm ngon và rất hấp dẫn. Nếu bạn đến Việt Nam, đừng quên thử món ăn này để trải nghiệm hương vị độc đáo của đất nước."
+        }
+      ],
+      "type": [
+        {
+          "name": "31.png",
+          "title": "Bánh xèo Cao Lãnh"
+        },
+        {
+          "name": "32.png",
+          "title": "Bánh xèo miền Trung"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "78.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh Xèo Hồng Ngọc",
+          "url": "https://goo.gl/maps/dcXqooN3wRXED1aTA"
+        },
+        {
+          "name": "Bánh Xèo Giòn",
+          "url": "https://goo.gl/maps/1JPq4oockmyHNM1y9"
+        },
+        {
+          "name": "Bánh Xèo Đà Nẵng",
+          "url": "https://goo.gl/maps/4B9DyWHYcW8K435K7"
+        }
+      ]
+    },
+    {
+      "name": "Bún bò huế",
+      "description": [
+        {
+          "text": "Bún bò Huế là một món ăn truyền thống của miền Trung Việt Nam, đặc biệt là ở thành phố Huế. Đây là một món ăn có thành phần chính là bún (bánh phở nhỏ) và thịt bò, được chế biến với nhiều loại gia vị và nước lèo thơm ngon. Nước lèo của bún bò Huế được làm từ xương ớt, xương heo, hành, tỏi, gừng và các loại gia vị khác, tạo nên hương vị đậm đà và đặc trưng. Thịt bò được cắt thành miếng và nấu chín trong nước lèo, tạo ra một hương vị thơm ngon và béo ngậy. Bún được luộc chín, rửa sạch và trộn với dầu mè để bún không bị dính vào nhau. Khi ăn, bún bò Huế được thêm rau sống như giá đỗ, hành tây, rau thơm, bắp chuối và ớt để tạo ra sự tươi mát và hương vị độc đáo. Món ăn này thường được ăn kèm với chả Huế (bánh giò), mì chính và một ít nước mắm chua ngọt. Bún bò Huế là một món ăn rất phổ biến và được ưa chuộng ở Việt Nam, đặc biệt là trong những ngày se lạnh. Nó cũng là một món ăn được nhiều người yêu thích ở các nước khác trên thế giới. Nếu bạn đến Huế hoặc các thành phố khác ở Việt Nam, đừng quên thử món ăn này để trải nghiệm hương vị đặc trưng của miền Trung Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "33.png",
+          "title": "Bún bò huế truyền thống"
+        },
+        {
+          "name": "34.png",
+          "title": "Bún bò Huế ở Hà Nội"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "79.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bún Bò Huế Ao Sen",
+          "url": "https://goo.gl/maps/sktKo4pZQjDXGZd39"
+        },
+        {
+          "name": "Bún Bò Huế An Cựu",
+          "url": "https://goo.gl/maps/7Uf8mRp7SDJMG1es8"
+        },
+        {
+          "name": "Quán Cẩm",
+          "url": "https://goo.gl/maps/LJRtpNdJbu27giXXA"
+        }
+      ]
+    },
+    {
+      "name": "Bún đậu mắm tôm",
+      "description": [
+        {
+          "text": "Bún đậu mắm tôm là một món ăn phổ biến của người Việt Nam, đặc biệt là trong văn hóa ẩm thực của miền Bắc. Đây là một món ăn đơn giản, nhưng lại mang đến hương vị đặc trưng của mắm tôm và các loại rau thơm. Bún đậu mắm tôm bao gồm nhiều thành phần như: bún tươi, đậu phụng rang, đậu hũ chiên giòn, thịt heo nướng, rau sống như rau thơm, rau xà lách, rau diếp cá, rau muống, đồ chua như cà rốt, dưa leo và mắm tôm. Để làm nước mắm tôm, người ta trộn mắm tôm với đường, nước chanh, tỏi, ớt và nước. Sau đó, nước mắm tôm được cho vào một chén nhỏ và đặt trên bàn ăn để thực khách có thể nhúng thức ăn vào. Khi ăn, thực khách thường nhúng bún, đậu phụng, đậu hũ, thịt heo nướng và các loại rau vào nước mắm tôm, tạo ra hương vị đặc trưng của món ăn. Bún đậu mắm tôm thường được ăn vào buổi trưa hoặc tối, và là một món ăn dân dã phổ biến trong cộng đồng người Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "35.png",
+          "title": "Bún đậu mắm tôm truyền thống"
+        },
+        {
+          "name": "36.png",
+          "title": "Bún đậu mắm tôm Nha Trang"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "80.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Nhà Cám",
+          "url": "https://goo.gl/maps/abP2Co8GPC9pKpKfA"
+        },
+        {
+          "name": "Bún đậu mắm tôm Chất",
+          "url": "https://goo.gl/maps/GWVRkWuv7CyXKFZ26"
+        },
+        {
+          "name": "Mộc Mẹt Quán",
+          "url": "https://goo.gl/maps/R3GV8N5RRTmbbEHw6"
+        }
+      ]
+    },
+    {
+      "name": "Bún mắm",
+      "description": [
+        {
+          "text": "Bún mắm là một món ăn đặc trưng của miền Nam Việt Nam. Đây là một loại bún được làm từ bột gạo, được pha loãng với nước, nhấn mịn và cho vào máy ép để tạo ra những sợi bún mảnh. Bún mắm thường được ăn với nước mắm pha chua cay, tôm khô, thịt nạc, mướp đắng và rau sống như rau muống, xà lách, rau thơm, ớt, tỏi,... Để làm nước mắm, người ta thường sử dụng mắm ruốc hoặc mắm tôm. Mắm được pha với nước, đường, tỏi, ớt, chanh, tamarind và nước cốt dừa, sau đó đun sôi để tạo ra hương vị đậm đà cho nước mắm. Bún mắm thường được ăn với thịt heo hoặc thịt gà xé sợi, hoặc với tôm, mực, cá nhỏ hay cá lóc, cá linh... Tùy theo từng khu vực và khẩu vị, bún mắm có thể được nêm nếm thêm các loại gia vị khác như bột ngọt, bột chiên, hành khô, hành tím, ớt băm,... Bún mắm thường được ăn vào buổi sáng hoặc trưa, và là món ăn phổ biến trong văn hóa ẩm thực của người Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "37.png",
+          "title": "Bún mắm Sài Gòn"
+        },
+        {
+          "name": "38.png",
+          "title": "Bún mắm miền Tây Nam Bộ"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "81.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bún mắm đường ray",
+          "url": "https://goo.gl/maps/fdviwYpLrUTg3wHX9"
+        },
+        {
+          "name": "Bún Mắm 66",
+          "url": "https://goo.gl/maps/jfwCfvb7bQaQ1atZ6"
+        },
+        {
+          "name": "Bún Mắm Cô 5 Đồng Tháp",
+          "url": "https://goo.gl/maps/1EkG9TAyLeX9M2MH8"
+        }
+      ]
+    },
+    {
+      "name": "Bún riêu",
+      "description": [
+        {
+          "text": "Bún riêu là một món ăn đặc trưng của Việt Nam, đặc biệt là ở miền Bắc và miền Trung. Đây là một món bún được ăn kèm với nước dùng được làm từ cua, tôm, thịt heo, cà chua, hành, ngò gai và nhiều gia vị khác. Người ta thường dùng cua đồng tươi để làm nước dùng cho bún riêu, và sau đó thêm tôm khô và thịt heo để tăng thêm độ ngon cho nước dùng. Cà chua được thái nhỏ rồi cho vào nước dùng để tạo ra màu sắc và vị chua đặc trưng cho món ăn này. Bún riêu được làm từ bột gạo, sau đó đem nấu chín trong nước sôi, rồi trải ra để ráo nước. Sau đó, bún được cho vào tô, ăn kèm với nước dùng và các loại rau sống như rau muống, rau ngổ, lá lốt, hành tím, mè,... Nếu thích, bạn có thể thêm chút chấm ớt vào nước dùng để tăng độ cay, hoặc ăn kèm với bánh quẩy để tạo thêm hương vị. Bún riêu là món ăn phổ biến, được ăn vào bữa sáng hoặc trưa, và là một phần trong văn hóa ẩm thực của người Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "39.png",
+          "title": "Bún riêu cua thành phố Hồ Chí Minh"
+        },
+        {
+          "name": "40.png",
+          "title": "Bún riêu cua Hà Nội"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "82.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bún riêu Bà Dú",
+          "url": "https://goo.gl/maps/JwDtcGhJjHEEywcJ7"
+        },
+        {
+          "name": "Bún riêu Cua Ốc",
+          "url": "https://goo.gl/maps/hMfLNvckgxeREfBv8"
+        },
+        {
+          "name": "Bún Riêu Cua _ Thăng Tính",
+          "url": "https://goo.gl/maps/bbj3p53quW5KsHnH6"
+        }
+      ]
+    },
+    {
+      "name": "Bún thịt nướng",
+      "description": [
+        {
+          "text": "Bún thịt nướng là một món ăn phổ biến của Việt Nam, đặc biệt là ở miền Nam. Đây là một món bún được ăn kèm với thịt heo nướng, các loại rau sống và nước mắm chua ngọt. Thịt heo nướng cho vào nước sốt được làm từ tỏi, đường, nước mắm và gia vị, sau đó để ướp trong ít nhất 30 phút để thấm đều gia vị trước khi đem nướng trên lửa than hoặc lửa gas. Bún thịt nướng thường được làm từ bún tươi, nấu chín và trải ra để ráo nước. Sau đó, bún được cho vào tô, ăn kèm với thịt heo nướng, dưa leo, rau sống như rau mùi, rau thơm, giá đỗ, hành tím,.. và cuối cùng là nước chấm được làm từ nước mắm, đường, tỏi, ớt và chanh. Bún thịt nướng là một món ăn rất đơn giản nhưng lại vô cùng hấp dẫn và ngon miệng. Đây là một trong những món ăn đặc trưng của ẩm thực Việt Nam, được ưa chuộng bởi sự thanh mát, ngon miệng và dễ ăn."
+        }
+      ],
+      "type": [
+        {
+          "name": "41.png",
+          "title": "Bún thịt nướng Cần Thơ"
+        },
+        {
+          "name": "42.png",
+          "title": "Bún thịt nướng Hà Nội"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "83.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bún riêu bún thịt nướng Xuân Quang",
+          "url": "https://goo.gl/maps/PiCCdSzCdgcATjKv8"
+        },
+        {
+          "name": "Bún thịt nướng (út lợi)",
+          "url": "https://goo.gl/maps/i9pCUMSXkenLMmi38"
+        },
+        {
+          "name": "Quán Cây Sứ",
+          "url": "https://goo.gl/maps/T4ZUXFXLKF2NZYKM6"
+        }
+      ]
+    },
+    {
+      "name": "Cá kho tộ",
+      "description": [
+        {
+          "text": "Cá kho tộ là một món ăn phổ biến của ẩm thực Việt Nam, được làm từ cá kho (cá được nấu chín trong nước dừa, nước mắm, đường, tỏi, hành, ớt) kết hợp với tương đen và ăn kèm với cơm trắng. Để làm món cá kho tộ, người ta thường sử dụng các loại cá như cá lóc, cá basa, cá thu,.. rửa sạch, bóc vỏ, rồi cắt thành từng miếng vừa ăn. Các miếng cá sau đó được cho vào nồi với nước dừa, nước mắm, đường, tỏi, hành, ớt và nấu đến khi cá chín mềm và nước sốt đặc sánh. Sau đó, người ta thường đổ nước tương đen vào nồi, tiếp tục nấu thêm một lúc để tương được thấm vào miếng cá và tạo thành một lớp vỏ ngoài thơm ngon. Cá kho tộ thường được dọn trong một cái tô, thêm một chút rau mùi và hành lá lên trên, và ăn kèm với cơm trắng. Đây là một món ăn đơn giản nhưng rất ngon miệng, được yêu thích bởi vị ngọt thanh, thơm nồng của nước sốt và vị đậm đà của miếng cá chín."
+        }
+      ],
+      "type": [
+        {
+          "name": "43.png",
+          "title": "Cá kho tộ miền Nam"
+        },
+        {
+          "name": "44.png",
+          "title": "Cá kho tộ miền Bắc"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "84.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Quán Triều phát",
+          "url": "https://goo.gl/maps/Q9TYMkKC1M5Jz28e8"
+        },
+        {
+          "name": "Quán Ngon",
+          "url": "https://goo.gl/maps/ATizYLELMfX39Doa7"
+        },
+        {
+          "name": "Nhà Hàng Lệ Hằng",
+          "url": "https://goo.gl/maps/wvw8jA8LrorCoeLk6"
+        }
+      ]
+    },
+    {
+      "name": "Canh chua",
+      "description": [
+        {
+          "text": "Canh chua là một món ăn truyền thống của Việt Nam, được làm từ nhiều loại rau củ, cá, tôm hoặc thịt, và nước dùng được tạo thành từ nước tương hoặc nước mắm, cùng với chua từ quả xoài, carambola, hoặc dấm. Để làm canh chua, trước hết người ta thường rang hành và tỏi cho thơm, sau đó cho nước dùng vào nấu cùng với thịt hoặc cá. Nếu sử dụng cá, thì cá được sơ chế và cắt thành từng miếng vừa ăn, sau đó cho vào nồi nấu với nước dùng, cà chua, dưa chuột, rau ngổ, rau kinh giới, rau răm và các gia vị như muối, đường, nước mắm, hành, tỏi, ớt. Nếu sử dụng tôm thì người ta sẽ thêm tôm vào khoảng nửa cuối quá trình nấu. Cuối cùng, để tạo ra vị chua của canh chua, người ta sử dụng quả xoài hoặc carambola (khế) để thêm vào nồi và nấu thêm một vài phút nữa. Canh chua thường được ăn kèm với cơm trắng và rau sống, hoặc đôi khi được ăn với bún hoặc mì. Canh chua là một món ăn rất phổ biến và được yêu thích ở Việt Nam, với vị chua thanh nhẹ, thơm ngon của các loại rau củ và cá hay tôm."
+        }
+      ],
+      "type": [
+        {
+          "name": "45.png",
+          "title": "Canh chua truyền thống"
+        },
+        {
+          "name": "46.png",
+          "title": "Canh chua Đồng Nai" 
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "85.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Bánh canh cá lóc nồi đât Tương Vy",
+          "url": "https://goo.gl/maps/5og7hm42NcHT4phd6"
+        },
+        {
+          "name": "Canh Cá Quỳnh Côi - Long Béo",
+          "url": "https://goo.gl/maps/r8KvLkuLDgqTWqga7"
+        },
+        {
+          "name": "BÚN sườn mọc canh chua",
+          "url": "https://goo.gl/maps/5goVtkVkYeLMbCzh7"
+        }
+      ]
+    },
+    {
+      "name": "Cao lầu",
+      "description": [
+        {
+          "text": "Cao lầu là một món ăn đặc trưng của thành phố Hội An, tỉnh Quảng Nam, Việt Nam. Món ăn này được làm từ bánh phở có dạng sợi, được nấu chín trong nước vàng sánh, phủ lên trên là một lớp thịt heo xào, tôm, rau sống và rau thơm. Cao lầu có vị đậm đà, mặn mòi, hòa quyện với vị ngọt của thịt heo và vị chua của rau sống, tạo nên một hương vị khó quên. Bánh phở của cao lầu được làm từ lúa mì đặc sản của vùng này, phải được trộn với tro bún và nước để có được độ đàn hồi và sợi phở mềm mịn. Cao lầu thường được ăn với chả giò hay bánh đa (bánh tráng chiên giòn), được thêm vào để tăng thêm độ giòn cho món ăn. Nếu bạn có cơ hội đến Hội An, đừng quên thưởng thức món ăn này để trải nghiệm hương vị đặc trưng của vùng đất Quảng Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "47.png",
+          "title": "Cao lầu Đà Nẵng"
+        },
+        {
+          "name": "48.png",
+          "title": "Cao lầu Hội An"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "86.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Quán Cao Lầu Đặc Sản Hội An - Cô Chú Già",
+          "url": "https://goo.gl/maps/15RZuoPr4tiGYop16"
+        },
+        {
+          "name": "Cao Lầu Quán - Bán bún thịt nướng, cao lầu, phở",
+          "url": "https://goo.gl/maps/ogn3PF7hcKLi5Jwe7"
+        },
+        {
+          "name": "Cao Lầu Hoài Phố",
+          "url": "https://goo.gl/maps/Mn6PRAEKm9trrDwH7"
+        }
+      ]
+    },
+    {
+      "name": "Cháo lòng",
+      "description": [
+        {
+          "text": "Cháo lòng là một món ăn phổ biến ở Việt Nam, được làm từ lòng heo hoặc bò, kết hợp với gạo và nhiều loại gia vị. Người ta thường sử dụng lòng heo hoặc bò và xay nhuyễn, sau đó nấu với nước dùng thơm ngon từ xương, thêm gạo và các gia vị như hành tím, tỏi, ớt, tiêu, mè rang và rau thơm. Cháo lòng có hương vị đậm đà, thơm ngon và bổ dưỡng. Đây cũng là món ăn phổ biến trong những ngày mưa, lạnh hoặc khi cơ thể cần hồi phục nhanh sau khi ốm. Cháo lòng thường được ăn kèm với rau sống như rau muống, ngò gai, hành tím và chanh, tạo ra một hương vị thơm ngon, giòn và chua ngọt. Ngoài ra, có thể thêm các loại gia vị khác như mắm tôm, tương ớt, xíu mại hoặc quẩy để tăng thêm độ ngon miệng của món ăn."
+        }
+      ],
+      "type": [
+        {
+          "name": "49.png",
+          "title": "Cháo lòng miền Tây"
+        },
+        {
+          "name": "50.png",
+          "title": "Cháo lòng Hà Nội"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "87.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Cháo Lòng Miền Tây",
+          "url": "https://goo.gl/maps/YfY9jD36zeohb43n6"
+        },
+        {
+          "name": "Cháo lòng Bà Chi",
+          "url": "https://goo.gl/maps/8h3bSLFFgobt1PJ5A"
+        },
+        {
+          "name": "Cháo Lòng Lợn Khương Thượng",
+          "url": "https://goo.gl/maps/8e2snqX9PPfSfzgZ8"
+        }
+      ]
+    },
+    {
+      "name": "Cơm tấm",
+      "description": [
+        {
+          "text": "Cơm tấm là một món ăn đặc trưng của miền Nam Việt Nam, là sự kết hợp giữa cơm, thịt heo, trứng, chả, rau sống và nước mắm pha chế. Cơm tấm được chế biến từ những hạt gạo trắng, sau đó đem nấu chín, cho thêm một ít dầu ăn và hành phi để tạo thêm hương vị thơm ngon. Thịt heo có thể được ướp với nước tương, mật ong, đường và các gia vị khác trước khi đem nướng hoặc xào, tạo nên một hương vị đậm đà và thơm ngon. Chả trứng là một loại chả được làm từ trứng gà, thịt heo băm nhuyễn, rau thơm và các gia vị khác, sau đó được chiên giòn và cắt thành từng miếng. Cơm tấm thường được ăn kèm với rau sống như rau muống, rau xà lách, rau ngò, hành tím và dưa leo. Nước mắm pha chế cũng là một phần không thể thiếu trong món ăn này, thường được pha chế từ nước, đường, tỏi, ớt và mắm tôm. Cơm tấm thường được ăn vào bữa sáng hoặc bữa trưa và là một trong những món ăn phổ biến và yêu thích ở Việt Nam."
+        }
+      ],
+      "type": [
+        {
+          "name": "51.png",
+          "title": "Cơm tấm Sài Gòn"
+        },
+        {
+          "name": "52.png",
+          "title": "Cơm tấm Quy Nhơn"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "88.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Charsiu Sticky Rice - Hanoi Broken Rice",
+          "url": "https://goo.gl/maps/NMAZj6bZtwfE2Nnj8"
+        },
+        {
+          "name": "Cơm tấm sài gòn",
+          "url": "https://goo.gl/maps/VjgqamYGjhaRJnvLA"
+        },
+        {
+          "name": "Cơm Tấm Anh Ba Sài Gòn",
+          "url": "https://goo.gl/maps/hwXAaeWTZUzGTjcE6"
+        }
+      ]
+    },
+    {
+      "name": "Gỏi cuốn",
+      "description": [
+        {
+          "text": "Gỏi cuốn (hay còn gọi là nem cuốn) là một món ăn truyền thống của Việt Nam, được làm từ bánh tráng mỏng, bên trong chứa những nguyên liệu như tôm, thịt, bún, rau sống và các loại gia vị. Gỏi cuốn thường được ăn kèm với nước chấm được pha chế từ nước mắm, đường, tỏi, ớt, chanh và các gia vị khác. Để làm gỏi cuốn, đầu tiên bánh tráng sẽ được ướt và sắp xếp lên một mặt phẳng. Sau đó, các nguyên liệu như tôm, thịt, bún, rau sống và gia vị sẽ được thêm vào trên bánh tráng. Bánh tráng sẽ được gập lên và cuộn tròn, tạo thành một chiếc cuốn nhỏ và thơm ngon. Gỏi cuốn thường được ăn như một món ăn nhẹ hoặc là một phần của bữa ăn chính. Đây là một món ăn rất phổ biến và được yêu thích không chỉ ở Việt Nam mà còn trên toàn thế giới."
+        }
+      ],
+      "type": [
+        {
+          "name": "53.png",
+          "title": "Gỏi cuốn miền Bắc"
+        },
+        {
+          "name": "54.png",
+          "title": "Gỏi cuốn Sài Gòn"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "89.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Cuốn Việt",
+          "url": "https://goo.gl/maps/KvG74vXWdJtAesNk6"
+        },
+        {
+          "name": "Bánh Cuốn Dẻo Phượng Nguyễn",
+          "url": "https://goo.gl/maps/ZFGjp85d3VRBa9UJ6"
+        },
+        {
+          "name": "Mr Cuốn - Gỏi cuốn tôm thịt",
+          "url": "https://goo.gl/maps/Na4poEByeehhRnFE8"
+        }
+      ]
+    },
+    {
+      "name": "Hủ tiếu",
+      "description": [
+        {
+          "text": "Hủ tiếu là một món ăn truyền thống của người Hoa, nhưng hiện nay đã trở thành món ăn phổ biến và rất được ưa chuộng tại Việt Nam. Hủ tiếu thường được làm từ bột gạo, có dạng sợi nhỏ và được ăn kèm với nước dùng được hầm từ xương heo hoặc từ hải sản, thịt và rau củ. Có nhiều loại hủ tiếu như hủ tiếu Nam Vang, hủ tiếu xá xíu, hủ tiếu khô,... Nhưng thường thì món hủ tiếu bao gồm những thành phần như sợi hủ tiếu, thịt heo, tôm, đầu hành, hành tím, tỏi phi, ớt tươi, rau thơm, quả trứng gà,... Món hủ tiếu thường được ăn trong bữa sáng hoặc bữa trưa, và được phục vụ nóng. Khi ăn, người ta thường cho thêm chút nước tương, chanh, tương ớt hoặc tương đen để tăng thêm hương vị cho món ăn."
+        }
+      ],
+      "type": [
+        {
+          "name": "55.png",
+          "title": "Hủ tiếu Mỹ Tho"
+        },
+        {
+          "name": "56.png",
+          "title": "Hủ tiếu miền Tây"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "90.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Hủ tiếu Mỹ Tho Phượng Hoàng",
+          "url": "https://goo.gl/maps/ooXa7xui1u6pCif17"
+        },
+        {
+          "name": "Hủ Tiếu Hạnh",
+          "url": "https://goo.gl/maps/NcP5FnTnAjbj34Mm7"
+        },
+        {
+          "name": "Hủ tiếu Chú Năm Hòa",
+          "url": "https://goo.gl/maps/MagKSPBa35Q5FfxLA"
+        }
+      ]
+    },
+    {
+      "name": "Mì quảng",
+      "description": [
+        {
+          "text": "Mì Quảng là món ăn truyền thống đặc sản của tỉnh Quảng Nam, miền Trung Việt Nam. Mì Quảng có cách chế biến và hương vị độc đáo, được làm từ bột gạo trộn với bột sắn, có dạng sợi dẹt và ngắn hơn so với mì truyền thống. Mì Quảng được ăn kèm với nước dùng được hầm từ nhiều loại thịt, cá, tôm, rau củ và gia vị. Nước dùng thường được làm từ xương heo, tôm, cá, thịt gà hoặc thịt heo. Các thành phần khác bao gồm hành tím, tỏi phi, rau răm, rau ngổ, hành lá, bắp cải, đậu phộng rang, bánh đa, tôm khô, giò heo, thịt bò khô, trứng cút... Món ăn này có vị ngọt thanh, chua nhẹ, cay nồng và rất đậm đà. Nó được ăn nóng hoặc lạnh và thường được trang trí bằng rau thơm và hành phi. Mì Quảng là một món ăn phổ biến tại Việt Nam và thường được dùng trong các dịp lễ tết, hội hè, hay dùng trong các bữa ăn gia đình hoặc trong các nhà hàng."
+        }
+      ],
+      "type": [
+        {
+          "name": "57.png",
+          "title": "Mì quảng Hội An"
+        },
+        {
+          "name": "58.png",
+          "title": "Mì quảng miền Trung"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "91.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Mì Quảng Hội An",
+          "url": "https://goo.gl/maps/u3fa9D9DVw2rokBR6"
+        },
+        {
+          "name": "Mì Quảng Bà Lân",
+          "url": "https://goo.gl/maps/E7StA2TVCgtBjNCs9"
+        },
+        {
+          "name": "Vị Quảng",
+          "url": "https://goo.gl/maps/V1Heq3p2RxMLz6Mk7"
+        }
+      ]
+    },
+    {
+      "name": "Nem chua",
+      "description": [
+        {
+          "text": "Nem chua là một món ăn truyền thống của Việt Nam, đặc biệt là ở miền Bắc và miền Trung. Đây là một loại nem được làm từ thịt heo thái nhỏ, băm nhuyễn, trộn với các gia vị như tỏi, ớt, muối, đường, tiêu và một số loại thảo mộc như rau răm, ngò, thì là... Hỗn hợp thịt này được bọc trong lá lốt hoặc trong lớp phần còn lại của bụng lợn, sau đó để chín qua một khoảng thời gian, thường là từ 2 đến 5 ngày. Sau khi chín, nem chua có màu đỏ tươi và vị chua ngọt, cay nhẹ và thơm ngon. Nem chua thường được ăn kèm với rau sống, bánh đa, đồ chua và nước mắm pha chua ngọt. Món này thường được ăn nhắm nháp trong các bữa tiệc, nhậu hay dùng làm món ăn nhẹ trong các bữa ăn gia đình."
+        }
+      ],
+      "type": [
+        {
+          "name": "59.png",
+          "title": "Nem chua Thanh Hóa"
+        },
+        {
+          "name": "60.png",
+          "title": "Nem chua Thanh Hóa"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "92.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Nem Chua Thanh Hóa - Hà Nội",
+          "url": "https://goo.gl/maps/GoojVqkJsTSAkKET9"
+        },
+        {
+          "name": "Nem Chua Trường Hoa",
+          "url": "https://goo.gl/maps/GaZnzE3aNNzF2KYE6"
+        },
+        {
+          "name": "Nem Chua Anh Đức",
+          "url": "https://goo.gl/maps/UnAgZDwqFz8yfYCF6"
+        }
+      ]
+    },
+    {
+      "name": "Phở",
+      "description": [
+        {
+          "text": "Phở là một món ăn truyền thống của Việt Nam, được coi là món ăn đặc trưng của nước này. Phở bao gồm nước dùng và miếng bánh phở, cùng với thịt bò hoặc gà, rau thơm, hành tây và gia vị như gừng, tỏi, ớt, bột ngọt và nước mắm. Nước dùng phở được làm bằng cách ninh xương bò hoặc gà với một số thảo mộc như ngải cứu, hành tây, gừng và tỏi. Sau đó, nước dùng được lọc qua một lớp vải để lấy được nước dùng trong suốt và tinh khiết. Miếng bánh phở được làm từ bột gạo và nước, trộn đều và cán mỏng. Sau đó, miếng bánh phở được cắt thành những sợi hình dài và đem đun qua nước sôi để chín. Khi ăn phở, thịt bò hoặc gà được cắt thành từng miếng nhỏ và cho vào tô cùng với miếng bánh phở, rau thơm và nước dùng. Phở thường được ăn kèm với rau sống như ngò, rau thơm, hành tây và chanh. Món ăn này thường được ăn vào bữa sáng hoặc bữa trưa."
+        }
+      ],
+      "type": [
+        {
+          "name": "61.png",
+          "title": "Phở bò Hà Nội"
+        },
+        {
+          "name": "62.png",
+          "title": "Phở gà Hà Nội"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "93.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Phở Hùng Gù",
+          "url": "https://goo.gl/maps/i3T6LYx4969BipmG6"
+        },
+        {
+          "name": "Phở Gà Ta Phố Cổ",
+          "url": "https://goo.gl/maps/AuqLRDc8Kdg1MzGu8"
+        },
+        {
+          "name": "Phở bò phố cổ",
+          "url": "https://goo.gl/maps/U8fAJJegzcCYTRyy7"
+        }
+      ]
+    },
+    {
+      "name": "Xôi xéo",
+      "description": [
+        {
+          "text": "Xôi xéo là một món ăn truyền thống của miền Trung Việt Nam. Xôi xéo được làm từ gạo nếp, đậu xanh, thịt heo, hành tím, mè rang và dầu hành. Để làm xôi xéo, gạo nếp được ngâm qua đêm, sau đó đem đun chín với nước. Đậu xanh cũng được đem đun chín tới khi mềm, sau đó nghiền nhuyễn. Thịt heo được xé thành sợi nhỏ và xào với hành tím và gia vị. Sau đó, gạo nếp và đậu xanh được trộn đều với nhau và xào cùng với thịt heo đã xào sơ. Khi xôi chín, mè rang được rắc lên trên mặt để tạo thêm vị giòn. Xôi xéo thường được ăn kèm với đồ chua như dưa góp, cà rốt, ớt, hoặc xà lách. Món ăn này có hương vị ngọt thanh của gạo nếp, đậu xanh và thịt heo, vị giòn của mè rang và vị chua của đồ ăn kèm."
+        }
+      ],
+      "type": [
+        {
+          "name": "63.png",
+          "title": "Xôi xéo Hà Nội"
+        },
+        {
+          "name": "64.png",
+          "title": "Xôi xéo Hải Phòng"
+        }
+      ],
+      "nutrition":[
+        {
+          "name": "94.png"
+        }
+      ],
+      "location": [
+        {
+          "name": "Quán Xôi Xéo Trang Cao",
+          "url": "https://goo.gl/maps/qYXEUhrpWVre6MsL6"
+        },
+        {
+          "name": "Xôi Mây",
+          "url": "https://goo.gl/maps/6JFwMS3LAt9xzxw37"
+        },
+        {
+          "name": "Xôi Xéo Bà 3 Béo",
+          "url": "https://goo.gl/maps/iZp64cWvrSNnfWfq6"
+        }
+      ]
+    }
+  ],
+  "assets": 94,
+  "version": "0.2.9"
+}
