@@ -16,3 +16,5 @@
 - Add assets
 ### v0.2.8 - MobilenetV2
 - Add assets
+### v0.2.9 - MobilenetV2
+- Add assets
